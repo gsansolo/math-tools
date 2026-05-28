@@ -764,6 +764,17 @@ export default function App() {
       fontFamily: "'IBM Plex Mono', monospace",
       padding: "16px 16px 32px",
     }}>
+    <div style={{
+      position: "fixed",
+      bottom: 8,
+      right: 12,
+      fontSize: 10,
+      color: "#333344",
+      fontFamily: "inherit",
+      pointerEvents: "none",
+      userSelect: "none",
+    }}> from sansolomath.com
+    </div>
       <div style={{
         display: "flex",
         gap: 0,
