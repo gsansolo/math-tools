@@ -769,7 +769,7 @@ export default function App() {
       bottom: 8,
       right: 12,
       fontSize: 10,
-      color: "#333344",
+      color: "#555570",
       fontFamily: "inherit",
       pointerEvents: "none",
       userSelect: "none",
